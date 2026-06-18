@@ -2,7 +2,6 @@
 
 Production-style AWS data engineering project that ingests YouTube trending video data from both the YouTube Data API and historical Kaggle datasets, processes the data through a Medallion Architecture (Bronze, Silver, Gold), performs automated data quality validation, and produces analytics-ready datasets accessible through Amazon Athena.
 
-![YouTube Trending Data Pipeline](YouTube%20Trending%20Data%20Pipeline.png)
 
 ## Overview
 
